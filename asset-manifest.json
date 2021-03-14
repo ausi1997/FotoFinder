@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FotoFinder/static/css/main.6996a20c.chunk.css",
+    "main.js": "/FotoFinder/static/js/main.4def5750.chunk.js",
+    "main.js.map": "/FotoFinder/static/js/main.4def5750.chunk.js.map",
+    "runtime-main.js": "/FotoFinder/static/js/runtime-main.88a7dfc5.js",
+    "runtime-main.js.map": "/FotoFinder/static/js/runtime-main.88a7dfc5.js.map",
+    "static/js/2.8a138661.chunk.js": "/FotoFinder/static/js/2.8a138661.chunk.js",
+    "static/js/2.8a138661.chunk.js.map": "/FotoFinder/static/js/2.8a138661.chunk.js.map",
+    "index.html": "/FotoFinder/index.html",
+    "static/css/main.6996a20c.chunk.css.map": "/FotoFinder/static/css/main.6996a20c.chunk.css.map",
+    "static/js/2.8a138661.chunk.js.LICENSE.txt": "/FotoFinder/static/js/2.8a138661.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88a7dfc5.js",
+    "static/js/2.8a138661.chunk.js",
+    "static/css/main.6996a20c.chunk.css",
+    "static/js/main.4def5750.chunk.js"
+  ]
+}
